@@ -1,5 +1,5 @@
 {
-  "compilerOptions": {
+  "compilerOptions": {"skipLibCheck": true
     "target": "ESNext",
     "useDefineForClassFields": true,
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
